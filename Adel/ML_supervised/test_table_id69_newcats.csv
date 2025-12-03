@@ -1,0 +1,9 @@
+Day,Outlook,Temp,TempCat,Humidity,HumidityCat,Wind,PlayTennis
+D15,Sunny,92,Hot,92,High,Strong,Yes
+D16,Sunny,39,Hot,99,High,Strong,Yes
+D17,Overcast,46,Hot,86,High,Weak,No
+D18,Overcast,26,Mild,79,High,Strong,No
+D19,Rain,19,Cool,56,Normal,Strong,No
+D20,Rain,23,Cool,66,Normal,Weak,No
+D21,Sunny,29,Mild,79,High,Strong,Yes
+D22,Overcast,26,Mild,69,Normal,Weak,Yes
